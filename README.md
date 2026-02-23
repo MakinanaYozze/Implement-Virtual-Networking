@@ -79,3 +79,4 @@ Method 11: Confirm if all the resources have been deployed and use the nslookup 
 ![image](images/image8.png)
 
 This project involved building and securing virtual networks in Microsoft Azure, creating subnets, configuring communication and DNS, and gaining hands-on experience in managing cloud networks safely and efficiently.
+It is my first time seeing a Microsoft Azure project on this platform and i must say it's awesome fam. I accidentally came across this while randomly browsing. 
